@@ -15,6 +15,7 @@
 
 ## Stats
 
-[![Lorys89 github stats](https://github-readme-stats.vercel.app/api?username=Lorys89)](https://github.com/anuraghazra/github-readme-stats)
+![Lorys89's github stats](https://github-readme-stats.vercel.app/api?username=Baio1977&show_icons=true&theme=tokyonight)- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorys89&show_icons=true&theme=tokyonight)
+ 
 
 </div>
